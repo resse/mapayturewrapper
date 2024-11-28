@@ -1,0 +1,16 @@
+{
+  "name": "mapayturewrapper",
+  "version": "1.0.3",
+  "description": "Payture Widget Wrapper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resse/mapayturewrapper"
+  },
+  "homepage": "git+https://github.com/resse/mapayturewrapper",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Mikhail Bobkov",
+  "license": "MIT"
+}
