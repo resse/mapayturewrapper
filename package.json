@@ -1,6 +1,6 @@
 {
   "name": "mapayturewrapper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Payture Widget Wrapper",
   "main": "index.js",
   "repository": {
